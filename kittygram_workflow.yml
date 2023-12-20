@@ -175,5 +175,3 @@ jobs:
                  Ссылка на коммит - https://github.com/${{ github.repository }}/commit/${{ github.sha }}
                  Репозиторий - ${{ github.repository }}
                  Вокрфлоу - ${{ github.workflow}}
-
-
